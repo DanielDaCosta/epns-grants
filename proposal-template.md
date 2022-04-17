@@ -21,6 +21,7 @@ I have been working as a data scientist for almost 3 years at an AI start-up, bu
 Development of a Dune Analytics Project/Dashboard featuring a number of unique analytical sections that present visualizations of key EPNS metrics. The main objective is to provide the community with a quick, high-level overview of the protocol, making it easier to spot trends and obtain insights about the PUSH token.
 
 5. **Proposal Category**
+
 *Other*: Data Analytics. Extract meaning from raw data using a data visualization tool.
 
 6. **Project Overview** \
@@ -42,7 +43,11 @@ After consolidating every query and dashboard, it is possible to create a ***Pro
 
 
 7. **Value Proposition to EPNS** \
-*What are the benefits to the EPNS community for investing in this proposal?*
+
+Provide critical reporting and metrics information to EPNS. The most efficient factor of digital data dashboards is their capacity to showcase multiple metrics and KPIs in one centralized environment simultaneously.  By centralizing these metrics in Dune, the EPNS team can better visibility of its business, improve results, accelerate growth, etc.
+
+Moreover, these dashboards will also provide more visibility of PUSH token development to the EPNS community.
+
 8. **Funding Requested** \
 
 5000 PUSH Tokens
