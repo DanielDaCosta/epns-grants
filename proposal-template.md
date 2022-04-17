@@ -65,7 +65,9 @@ Moreover, these dashboards will also provide more visibility of PUSH token devel
 
 
 10. **Wallet Address** \
-*Payments will be made in $PUSH token on mainnet.*
+
+0xb2ca80383a912fd836df2d9a3399aa6035d6fdb2
+
 11. **Relevant Links & Attachments** \
 
 EPNS Dashboard starter project: https://dune.xyz/snowstorm/EPNS-Metrics
