@@ -10,11 +10,10 @@ Dune Analytics Project
 soapbox.cellist-0o@icloud.com
 
 3. **About You** \
-
-I have been working as a data scientist for almost 3 years at an AI start-up, building data analysis reports and storytelling for our clients and building predictive models for our products, using Pandas, SQL, Scikit-Learn Keras, and other tools. I have also worked on building data pipelines to preprocess and monitor large amounts of data for our deployed models (PySpark, ETL, Grafana).
+I'm a Double degree engineer with a Minor in Mathematics, currently remotely working as Data Scientist. I have been working as a data scientist for almost 3 years at an AI start-up, building data analysis reports and storytelling for our clients and building predictive models for our products, using Pandas, SQL, Scikit-Learn Keras, and other tools. I have also worked on building data pipelines to preprocess and monitor large amounts of data for our deployed models (PySpark, ETL, Grafana).
 
 - Twitter: Danield21054481
-- Discord: snowstorm#9786
+- Discord: DanieldaCosta#9786
 
 4. **Project TL:DR** \
 
