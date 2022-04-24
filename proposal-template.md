@@ -3,7 +3,7 @@
 
 1. **Project Name**
 
-Dune Analytics Project
+Data Analytics Project
 
 2. **Email**
 
